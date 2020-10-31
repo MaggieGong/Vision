@@ -1,4 +1,4 @@
-**negative examples **
+**negative examples**
 
 - objects from other classes that we are not interested in (e.g. don't want anything other than fruits)
 - create another class for everything other that what's wanted
