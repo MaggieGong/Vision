@@ -21,6 +21,4 @@
 - gather numerous positive examples (minimum 10)
 - training
 - test with test set (set of images not used to train the classifier)
-
-![image-20201031002240338](C:\Users\maggi\AppData\Roaming\Typora\typora-user-images\image-20201031002240338.png)
-
+![vision](vision.png)
