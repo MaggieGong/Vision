@@ -21,4 +21,3 @@
 - gather numerous positive examples (minimum 10)
 - training
 - test with test set (set of images not used to train the classifier)
-![vision](vision.png)
